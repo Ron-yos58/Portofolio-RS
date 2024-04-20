@@ -1155,7 +1155,7 @@ body {
 .animated-text span::after{
   content: "";
   position: absolute;
-  width: calc(100% + 8px);
+  width: calc(100% + 10px);
   height: 100%;
   background-color: white;
   border-left: 2px solid #ff7f50;
