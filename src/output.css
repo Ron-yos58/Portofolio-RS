@@ -738,6 +738,10 @@ html {
   margin-bottom: 0.25rem;
 }
 
+.mt-4 {
+  margin-top: 1rem;
+}
+
 .block {
   display: block;
 }
@@ -1826,6 +1830,10 @@ body {
 }
 
 @media (min-width: 1320px) {
+  .\32xl\:block {
+    display: block;
+  }
+
   .\32xl\:hidden {
     display: none;
   }
