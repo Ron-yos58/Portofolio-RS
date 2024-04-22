@@ -1,10 +1,13 @@
 {
-    "editor.renderWhitespace": "all",
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Hack, Source Code Pro, Consolas, 'Courier New', monospace",
-    "editor.cursorBlinking": "smooth",
-    "editor.mouseWheelZoom": true,
-    "window.zoomLevel": 0,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
+  "editor.renderWhitespace": "all",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Hack, Source Code Pro, Consolas, 'Courier New', monospace",
+  "editor.cursorBlinking": "smooth",
+  "editor.mouseWheelZoom": true,
+  "window.zoomLevel": 0,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
 }
